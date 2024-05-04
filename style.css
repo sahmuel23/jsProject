@@ -1,0 +1,21 @@
+body {
+    background-color: #E9C2A6;
+    text-align: center;
+    margin: 80px 200px;
+}
+
+div {
+    padding: 5px 15px;
+    border-radius: 3px;
+    display: inline-block;
+    border: 1px solid;
+}
+
+label{
+    padding: 5px 5px;
+}
+
+button:hover {
+    cursor: pointer; /* Mudar o cursor do mouse */
+    background-color: #7d7c85;
+}
